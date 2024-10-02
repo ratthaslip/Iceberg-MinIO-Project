@@ -16,3 +16,5 @@ https://www.tabular.io/blog/docker-spark-and-iceberg-the-fastest-way-to-try-iceb
 
 https://github.com/tabular-io/docker-spark-iceberg
 
+https://www.tabular.io/blog/pyiceberg-pyarrow/
+
