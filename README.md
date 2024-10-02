@@ -14,3 +14,5 @@ https://www.tabular.io/blog/minio/
 
 https://www.tabular.io/blog/docker-spark-and-iceberg-the-fastest-way-to-try-iceberg/
 
+https://github.com/tabular-io/docker-spark-iceberg
+
