@@ -5,3 +5,5 @@ MinIO UI at http://localhost:9001
 
 ### Reference
 https://www.tabular.io/blog/minio/
+https://www.tabular.io/blog/docker-spark-and-iceberg-the-fastest-way-to-try-iceberg/
+
